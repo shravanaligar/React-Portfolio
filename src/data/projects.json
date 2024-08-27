@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Online Voting Management System",
+    "imageSrc": "projects/project.png",
+    "description": "This project involved designing, implementing, and optimizing the database to ensure efficient and secure voting processes.",
+    "skills": ["MySQL", "HTML", "CSS"],
+    
+    "source": "https://github.com/shravanaligar/demo1/blob/main/duplicate%20(1).sql"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This project contains sections such as an introduction, skills, work experience, projects, contact information. It highlights frontend development skills",
+    "skills": ["React", "HTML", "CSS"],
+    
+    "source": "https://www.github.com"
+  }
+  
+]
